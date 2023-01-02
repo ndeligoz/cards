@@ -2,3 +2,10 @@ img {
     width: 100%;
     height: auto;
 }
+.checked {
+    color: orange ;
+}
+.price {
+    color: orange;
+    font-size: 1.3rem;
+}
